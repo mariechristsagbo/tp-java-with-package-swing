@@ -9,7 +9,7 @@ import javax.swing.BorderFactory;
 import javax.swing.JPanel;
 
 public class Dessin extends JPanel {
-    private String figure = "Carre";
+    private String figure = "Carré";
     private Color couleur = Color.BLUE;
     private String text = "Hello World";
 
@@ -52,7 +52,7 @@ public class Dessin extends JPanel {
             int x = (getWidth() - size) / 2;
             int y = (getHeight() - size) / 2 + 10;
 
-            if ("Carre".equals(figure)) {
+            if ("Carré".equals(figure)) {
                 g.drawRect(x, y, size, size);
             } else if ("Cercle".equals(figure)) {
                 g.drawOval(x, y, size, size);

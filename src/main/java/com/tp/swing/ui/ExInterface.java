@@ -58,7 +58,7 @@ public class ExInterface extends JFrame {
     private JPanel createLeftPanel() {
         JPanel gauche = new JPanel(new GridLayout(6, 1, 0, 5));
 
-        button1 = new JRadioButton("Carre", true);
+        button1 = new JRadioButton("Carré", true);
         button2 = new JRadioButton("Cercle", false);
         button3 = new JRadioButton("Triangle", false);
 
