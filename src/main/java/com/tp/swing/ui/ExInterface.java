@@ -95,7 +95,7 @@ public class ExInterface extends JFrame {
         listData.addElement("Changez la couleur");
         listData.addElement("J'adore Java");
         listData.addElement("Allez les verts !");
-        listData.addElement("Ca marche");
+        listData.addElement("Ça marche");
         listData.addElement("blablabla");
 
         textList = new JList<>(listData);
