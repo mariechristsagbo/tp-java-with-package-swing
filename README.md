@@ -22,3 +22,7 @@ java -cp out com.tp.swing.Main
 ```
 
 La classe principale est `com.tp.swing.Main`.
+
+## Interface développée
+
+<img width="1278" height="1118" alt="image" src="https://github.com/user-attachments/assets/d2a25ca8-4303-48b8-8e5e-2b596a7091d7" />
