@@ -32,7 +32,7 @@ public class ExInterface extends JFrame {
     protected Dessin dessin;
 
     public ExInterface() {
-        super("Un exemple de fenetre");
+        super("Un exemple de fenêtre");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JPanel mainPanel = new JPanel(new BorderLayout(10, 10));
